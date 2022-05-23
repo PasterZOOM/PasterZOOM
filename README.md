@@ -9,6 +9,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&theme=black-ice&hide_border=true&stroke=1001&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="PasterZOOM" /></div>
+
+<!-- ./STAT -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PasterZOOM&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="PasterZOOM github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgeevDmitryMinsk&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+<!-- ./STATS  -->
+
 <!--
 **PasterZOOM/PasterZOOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
