@@ -1,13 +1,16 @@
 <!-- ./STAT -->
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&hide_border=true&stroke=1001&ring=44944A&fire=44944A&currStreakLabel=44944A"
-         title="PasterZOOM" alt="PasterZOOM"/>
+         title="PasterZOOM" alt="PasterZOOM"
+         width="60%"/>
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=PasterZOOM&show_icons=true&count_private=true&hide_border=true&title_color=44944A&icon_color=44944A"
-         title="PasterZOOM github stats" alt="PasterZOOM github stats"/>
+         title="PasterZOOM github stats" alt="PasterZOOM github stats"
+         width="49%" height="200"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterZOOM&layout=compact&hide_border=true&title_color=44944A"
-         title="PasterZOOM github stats" alt="PasterZOOM github stats"/>
+         title="PasterZOOM github stats" alt="PasterZOOM github stats"
+         width="41%" height="200"/>
 </div>
 <!-- ./STATS  -->
 
