@@ -1,17 +1,23 @@
 
 <!-- ./STAT -->
 <div align="center">
+    <a href="https://github.com/PasterZOOM?tab=repositories">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
          title="PasterZOOM" alt="PasterZOOM"
          width="60%"/>
+    </a>
 </div>
 <div align="center">
+    <a href="https://github.com/PasterZOOM?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=PasterZOOM&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
          title="PasterZOOM github stats" alt="PasterZOOM github stats"
          width="49%" height="200"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterZOOM&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
-         title="PasterZOOM github stats" alt="PasterZOOM github stats"
-         width="41%" height="200"/>
+    </a>
+    <a href="https://github.com/PasterZOOM?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterZOOM&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
+            title="PasterZOOM github stats" alt="PasterZOOM github stats"
+            width="41%" height="200"/>
+    </a>  
 </div>
 <!-- ./STATS  -->
 
@@ -49,6 +55,9 @@
 </div>
 
 <div align="center">
-    <img src="https://www.codewars.com/users/PasterZOOM/badges/small"
+    <a href="https://www.codewars.com/users/PasterZOOM">
+        <img src="https://www.codewars.com/users/PasterZOOM/badges/small"
          title="CodeWars" alt="CodeWars"/>
+    </a>
+    
 </div>
