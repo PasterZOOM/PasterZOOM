@@ -57,7 +57,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"
              title="Photoshop" alt="Photoshop"
              width="40" height="40"/></a>&nbsp;
-    <a href="https://en.wikipedia.org/wiki/GitHub">
+    <a href="https://www.jetbrains.com/webstorm/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"
          title="WebStorm" alt="WebStorm"
          width="40" height="40"/></a>&nbsp;
