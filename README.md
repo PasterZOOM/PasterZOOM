@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=200&section=header&text=Ilya Pasternak&desc=frontend developer&animation=fadeIn&fontColor=fff&fontSize=50&fontAlign=75&fontAlignY=30&descSize=20&descAlign=84&descAlignY=43" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=170&section=header&text=Ilya Pasternak&desc=frontend developer&animation=fadeIn&fontColor=fff&fontSize=50&fontAlign=78&fontAlignY=30&descSize=20&descAlign=87&descAlignY=45" />
 </div>
 
 <!-- <div id="header" align="center">
@@ -78,5 +78,5 @@
     </a>
 </div>
 <div id="header" align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=100&section=footer&text=&animation=fadeIn&fontColor=fff&fontSize=50&fontAlign=75&fontAlignY=30&descSize=20&descAlign=84&descAlignY=43" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=150&section=footer&text=&animation=fadeIn&fontColor=fff&fontSize=50&fontAlign=75&fontAlignY=30&descSize=20&descAlign=84&descAlignY=43" />
 </div>
