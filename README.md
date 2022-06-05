@@ -1,26 +1,27 @@
 <div id="header" align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=C6FF00&height=200&section=header&text=Ilya Pasternak&desc=frontend developer&animation=fadeIn&fontColor=fff&fontSize=50&fontAlign=75&fontAlignY=30&descSize=20&descAlign=84&descAlignY=43" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=200&section=header&text=Ilya Pasternak&desc=frontend developer&animation=fadeIn&fontColor=fff&fontSize=50&fontAlign=75&fontAlignY=30&descSize=20&descAlign=84&descAlignY=43" />
 </div>
-<div id="header" align="center">
+
+<!-- <div id="header" align="center">
   <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" />
-</div>
+</div> -->
 
 <!-- ./STAT -->
 <div align="center">
     <a href="https://github.com/PasterZOOM?tab=repositories">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&hide_border=true&stroke=888&ring=C6FF00&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=C6FF00&background=0000"
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
              title="PasterZOOM" alt="PasterZOOM"
              width="60%"/>
     </a>
 </div>
 <div align="center">
     <a href="https://github.com/PasterZOOM?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=PasterZOOM&show_icons=true&count_private=true&hide_border=true&title_color=C6FF00&text_color=888&icon_color=C6FF00&bg_color=0000"
+        <img src="https://github-readme-stats.vercel.app/api?username=PasterZOOM&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
              title="PasterZOOM github stats" alt="PasterZOOM github stats"
              width="49%" height="200"/>
     </a>
     <a href="https://github.com/PasterZOOM?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterZOOM&layout=compact&hide_border=true&title_color=C6FF00&text_color=888&bg_color=0000"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterZOOM&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
              title="PasterZOOM github stats" alt="PasterZOOM github stats"
              width="41%" height="200"/>
     </a>
@@ -75,5 +76,7 @@
         <img src="https://www.codewars.com/users/PasterZOOM/badges/small"
              title="CodeWars" alt="CodeWars"/>
     </a>
-
+</div>
+<div id="header" align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=100&section=footer&text=&animation=fadeIn&fontColor=fff&fontSize=50&fontAlign=75&fontAlignY=30&descSize=20&descAlign=84&descAlignY=43" />
 </div>
