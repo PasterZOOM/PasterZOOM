@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=170&section=header&text=Ilya Pasternak&desc=frontend developer&animation=fadeIn&fontColor=fff&fontSize=50&fontAlign=78&fontAlignY=30&descSize=20&descAlign=87&descAlignY=45" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=170&section=header&text=Ilya%20Pasternak&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=50&fontAlign=78&fontAlignY=30&descSize=20&descAlign=87&descAlignY=45" />
 </div>
 
 <!-- <div id="header" align="center">
@@ -8,7 +8,7 @@
 
 <!-- ./STAT -->
 <div align="center">
-    <a href="https://github.com/PasterZOOM?tab=repositories">
+    <a href="https://github.com/PasterZOOM#:~:text=Contribution%20activity">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
              title="PasterZOOM" alt="PasterZOOM"
              width="60%"/>
