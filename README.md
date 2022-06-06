@@ -6,7 +6,7 @@
 
 <!-- ./STAT -->
 <div align="center">
-    <a href=".graph-before-activity-overview">
+    <a href="https://skyline.github.com/PasterZOOM/2022">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
              title="PasterZOOM" 
              alt="PasterZOOM"
