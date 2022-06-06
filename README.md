@@ -1,10 +1,8 @@
+<!-- HEARER -->
 <div id="header" align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=190&section=header&text=Ilya%20Pasternak&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=68&fontAlignY=35&descSize=18&descAlign=82.5&descAlignY=17"/>
 </div>
-
-<!-- <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" />
-</div> -->
+<!-- /HEARER -->
 
 <!-- ./STAT -->
 <div align="center">
@@ -82,6 +80,12 @@
              title="CodeWars" alt="CodeWars"/>
     </a>
 </div>
+
+
+<div id="header" align="center">
+  <img src="maker.gif" />
+</div>
+
 <div id="header" align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=120&section=footer&text=ready%20to%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43" />
 </div>
