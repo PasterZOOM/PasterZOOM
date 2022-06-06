@@ -83,5 +83,5 @@
     </a>
 </div>
 <div id="header" align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=120&section=footer&text=&animation=fadeIn&fontColor=fff&fontSize=50&fontAlign=75&fontAlignY=30&descSize=20&descAlign=84&descAlignY=43" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=120&section=footer&text=ready%20for%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43" />
 </div>
