@@ -6,7 +6,7 @@
 
 <!-- ./STAT -->
 <div align="center">
-    <a href="https://github.com/PasterZOOM#:~:text=Contribution%20activity">
+    <a href=".js-pjax-container">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
              title="PasterZOOM" 
              alt="PasterZOOM"
@@ -87,5 +87,7 @@
 </div>
 
 <div id="header" align="center">
+    <a href=mailto:pasterzoom@gmail.com>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=120&section=footer&text=ready%20to%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
+    </a>
 </div>
