@@ -6,7 +6,7 @@
 
 <!-- ./STAT -->
 <div align="center">
-    <a href=".js-pjax-container">
+    <a href="https://github.com/PasterZOOM?#:~:text=Contribution%20activity">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
              title="PasterZOOM" 
              alt="PasterZOOM"
