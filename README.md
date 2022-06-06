@@ -83,9 +83,9 @@
 
 
 <div id="header" align="center">
-  <img src="maker.gif" />
+  <img src="maker.gif"  width="400"/>
 </div>
 
 <div id="header" align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=120&section=footer&text=ready%20to%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=494&height=120&section=footer&text=ready%20to%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
 </div>
