@@ -74,9 +74,10 @@
          width="40" height="40"/></a>&nbsp;
 </div>
 
+<br/>
 
 <div id="header" align="center">
-  <img src="maker.gif"  width="400"/>
+  <img src="maker.gif"  width="300"/>
 </div>
 
 <div align="center">
