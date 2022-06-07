@@ -74,16 +74,16 @@
          width="40" height="40"/></a>&nbsp;
 </div>
 
+
+<div id="header" align="center">
+  <img src="maker.gif"  width="400"/>
+</div>
+
 <div align="center">
     <a href="https://www.codewars.com/users/PasterZOOM" target="_blank">
         <img src="https://www.codewars.com/users/PasterZOOM/badges/small"
              title="CodeWars" alt="CodeWars"/>
     </a>
-</div>
-
-
-<div id="header" align="center">
-  <img src="maker.gif"  width="400"/>
 </div>
 
 <div id="header" align="center">
