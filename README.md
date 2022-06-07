@@ -9,27 +9,26 @@
     <a href="https://skyline.github.com/PasterZOOM/2022" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasterZOOM&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
              title="PasterZOOM" 
-             alt="PasterZOOM"
-             width="60%"/>
+             alt="PasterZOOM"/>
     </a>
 </div>
 <div align="center">
     <a href="https://github.com/PasterZOOM?tab=repositories" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=PasterZOOM&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
-             title="PasterZOOM github stats" 
+             title="PasterZOOM github repositories" 
              alt="PasterZOOM github stats"
-             width="49%" 
-             height="200"/>
+             width="49%"/>
     </a>
     <a href="https://github.com/PasterZOOM?tab=repositories" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasterZOOM&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
-             title="PasterZOOM github stats"
+             title="PasterZOOM github repositories"
              alt="PasterZOOM github stats"
-             width="41%" 
-             height="200"/>
+             width="41%"/>
     </a>
 </div>
 <!-- ./STATS  -->
+
+<br/>
 
 <div align="center">
     <a href="https://reactjs.org/" target="_blank">
