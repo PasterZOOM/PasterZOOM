@@ -77,7 +77,7 @@
 <br/>
 
 <div id="header" align="center">
-  <img src="maker.gif"  width="300"/>
+  <img src="img.gif"  width="300"/>
 </div>
 
 <div align="center">
