@@ -47,7 +47,7 @@
              title="Angular" alt="Angular "
              width="40" height="40"/></a>&nbsp;          -->
     <a href="https://nextjs.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
              title="NextJS" alt="NextJS "
              width="40" height="40"/></a>&nbsp; 
     <a href="https://mui.com/" target="_blank">
