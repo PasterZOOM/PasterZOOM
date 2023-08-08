@@ -113,7 +113,7 @@
 </div>
 <div align="center">
     <a href="https://www.codewars.com/users/rsschool_d6000f97491ccb09">
-        <img src="https://www.codewars.com/users/rsschool_d6000f97491ccb09/badges/small"
+        <img src="https://www.codewars.com/users/pasterzoom/badges/small"
              title="CodeWars" alt="CodeWars"/>
     </a>
 </div>
