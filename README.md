@@ -107,7 +107,7 @@
 <br/>
 
 <div align="center">
-     <a href="https://www.codewars.com/users/rsschool_d6000f97491ccb09">
+     <a href="https://www.codewars.com/users/PasterZOOM">
         <img src="img.gif"  width="300"/>
      </a>
 </div>
