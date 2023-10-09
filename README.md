@@ -94,14 +94,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
              title="Git" alt="Git"
              width="40" height="40"/></a>&nbsp;
-    <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"
-             title="Photoshop" alt="Photoshop"
-             width="40" height="40"/></a>&nbsp;
     <a href="https://www.jetbrains.com/webstorm/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"
-         title="WebStorm" alt="WebStorm"
-         width="40" height="40"/></a>&nbsp;
+         <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"
+              title="WebStorm" alt="WebStorm"
+              width="40" height="40"/></a>&nbsp;
 </div>
 
 <br/>
