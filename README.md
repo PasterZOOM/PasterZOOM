@@ -109,7 +109,7 @@
 </div>
 <div align="center">
     <a href="https://www.codewars.com/users/PasterZOOM">
-        <img src="https://www.codewars.com/users/pasterzoom/badges/small"
+        <img src="https://www.codewars.com/users/PasterZoom/badges/small"
              title="CodeWars" alt="CodeWars"/>
     </a>
 </div>
