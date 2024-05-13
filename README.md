@@ -71,7 +71,7 @@
              title="SASS" alt="SASS"
              width="40" height="40"/></a>&nbsp;     
      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
              title="TailwindCSS" alt="TailwindCSS"
              width="40" height="40"/></a>&nbsp; 
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
@@ -109,7 +109,7 @@
 </div>
 <div align="center">
     <a href="https://www.codewars.com/users/PasterZOOM">
-        <img src="https://www.codewars.com/users/PasterZoom/badges/small"
+        <img src="https://www.codewars.com/users/PasterZOOM/badges/large"
              title="CodeWars" alt="CodeWars"/>
     </a>
 </div>
